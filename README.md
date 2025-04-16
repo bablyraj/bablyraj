@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bably Raj
 =================================================================================================================================
 
-Aspiring Web Developer
+Aspiring Data Scientist 
 ----------------------
 
-Currently: Btech CSE Student at Christ University Bangalore.
+Currently: Pursuing PGP-Data Science at Great lakes institute of Management Bangalore.
 
 * 🌍  I'm based in Bangalore
 * ✉️  You can contact me at [bablyraj917@gmail.com](mailto:bablyraj917@gmail.com)
-* 🧠  I'm learning React JS & React Native
+* 🧠  I'm Skilled in Python, SQL, MS Excel, DBMS, EDA, Machine Learning,NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost
 
 ### Skills
 
